@@ -2,7 +2,7 @@
 
 Sammple codes for the Hands-on tutorial of basics of Tensor networks.
 There are three types of exersizes.
-To run ipynb on Google Colab, please see the instruction ([Exercises.pdf](Exercises.pdf)) 
+To run ipynb on Google Colab, please see the instruction ([Exercises.pdf](Slides/Exercises.pdf)) 
 
 
 ## Ex1
