@@ -1,4 +1,4 @@
-# TensorNetworkTutorial
+# Tensor-Network-Tutorial
 
 Sammple codes for the Hands-on tutorial of basics of Tensor networks.
 There are three types of exersizes.
