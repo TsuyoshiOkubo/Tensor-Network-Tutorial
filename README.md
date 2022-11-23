@@ -1,6 +1,6 @@
 # TensorNetworkTutorial
 
-Sammple codes for the Handson tutorial of basics of Tensor networks.
+Sammple codes for the Hands-on tutorial of basics of Tensor networks.
 There are three types of exersizes.
 To run ipynb on Google Colab, please see the instruction ([Exercises.pdf](Exercises.pdf)) 
 
