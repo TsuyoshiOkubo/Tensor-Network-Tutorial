@@ -1,7 +1,8 @@
 # Tensor-Network-Tutorial
+Slide of main lecture: "[Tensor network approach to two-dimensional frustrated spin systems](Slide/CMEQM_20221124.pdf)" 
 
-Sammple codes for the Hands-on tutorial of basics of Tensor networks.
-There are three types of exersizes.
+Here we share sammple codes for the Hands-on tutorial of basics of Tensor networks.
+There are three types of exercises.
 To run ipynb on Google Colab, please see the instruction ([Exercises.pdf](Slides/Exercises.pdf)) 
 
 
