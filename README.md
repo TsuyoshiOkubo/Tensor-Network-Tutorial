@@ -1,5 +1,5 @@
 # Tensor-Network-Tutorial
-Slide of main lecture: "[Tensor network approach to two-dimensional frustrated spin systems](Slide/CMEQM_20221124.pdf)" 
+Slide of main lecture: "[Tensor network approach to two-dimensional frustrated spin systems](Slides/CMEQM_20221124.pdf)" 
 
 Here we share sammple codes for the Hands-on tutorial of basics of Tensor networks.
 There are three types of exercises.
