@@ -3,6 +3,12 @@
 ## Main lecture
 Slide of main lecture: "[Tensor network approach to two-dimensional frustrated spin systems](Slides/CMEQM_20221124.pdf)" 
 
+Video recordings of the lectures in "APCTP-IACS-SNBNCBS Workshop on Computational Methods for Emergent Quantum Matter: From Theoretical Concepts to Experimental Realization".
+[https://www.bose.res.in/Conferences/APCTP22/program/](https://www.bose.res.in/Conferences/APCTP22/program/)
+
+* [Part1](https://www.youtube.com/watch?v=GoS-J8k7aPA)
+* [Part2](https://www.youtube.com/watch?v=8JpMVz8essw)
+
 ## Basics of tensor networks
 Here we share sample codes for the hands-on tutorial of basics of Tensor networks.
 There are three types of exercises.
